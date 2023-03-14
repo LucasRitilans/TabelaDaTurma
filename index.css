@@ -1,0 +1,28 @@
+header img{
+    width: 400px;
+    height: 400px;
+    
+}
+
+#destaque{
+    color: white;
+    background-color: green;
+}
+
+#destaque2{
+    color: white;
+    background-color: red;
+}
+
+h1{
+    color: black;
+}
+
+.center{
+    text-align: center;
+    margin: auto;
+}
+
+.borda{
+    border-radius: 70%;
+}
